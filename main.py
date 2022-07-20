@@ -1,3 +1,6 @@
+# This game was created by Kingson
+# Try your luck on this game
+
 import random
 import time
 
